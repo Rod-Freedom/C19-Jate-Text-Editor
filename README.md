@@ -22,7 +22,7 @@ The Text Editor WebApp is a robust and user-friendly browser-based text editor d
 
 *Find the repo [here](https://github.com/Rod-Freedom/C19-Jate-Text-Editor).*<br>
 *Find the site [here](https://c19-jate-text-editor.onrender.com/)!*<br>
-*Watch our tutorial [**here**](https://youtu.be/fO3v9G5R15Y).*
+*Watch our tutorial [**here**](https://youtu.be/1p1UsngJPgs).*
 
 <br>
 <br>
@@ -49,7 +49,7 @@ The Text Editor WebApp is a robust and user-friendly browser-based text editor d
 [(Back to the Top)](#about-the-project)
 
 ## Get Started
-*Watch our tutorial [**here**](https://youtu.be/fO3v9G5R15Y).*
+*Watch our tutorial [**here**](https://youtu.be/1p1UsngJPgs).*
 
 Just go to the site and write away!<br>
 *Find the site [here](https://c19-jate-text-editor.onrender.com/)!*<br>
@@ -59,7 +59,7 @@ Just go to the site and write away!<br>
 [(Back to the Top)](#about-the-project)
 
 ## Usage
-*Watch our tutorial [**here**](https://youtu.be/fO3v9G5R15Y).*
+*Watch our tutorial [**here**](https://youtu.be/1p1UsngJPgs).*
 
 You can use it offline or install it, just by clicking `install` at the top-left corner.
 
